@@ -25,4 +25,4 @@ Este projeto será desenvolvido em aula utilizando **GitHub Codespaces**.
 
 O projeto pode ser executado diretamente no navegador através do **GitHub Pages**:
 
-🔗 **[Abrir Mini Social App](https://julianogregorio-educacao.github.io/mini-social-app/)**
+🔗 **[Abrir Mini Social App](https://mariane1805.github.io/Mine-social-mariane/)**
