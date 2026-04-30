@@ -38,13 +38,12 @@ function descurtir() {
   }
   atualizarInterface();
 }
-
+//==VIEWS (interface)
 function atualizarInterface() {
   document.getElementById("likeCount").innerText = likeCount;
   document.getElementById("dislikeCount").innerText = dislikeCount;
 }
 //=== CONTROLER (intermediação evento/regras de negocio)
-
 function clicarcurtir(){
   curtir();
 }
